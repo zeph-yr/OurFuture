@@ -42,9 +42,11 @@ Please join us (and your local efforts) in the fight for our future, our Earth, 
 - Bill Nye Explains Climate Change https://www.youtube.com/watch?v=IFgBFYkBZ6E
 - How Much CO2 Are We Releasing? https://co2counter.org/
 
-### Get Involved in Your Local Area:
-https://climate.friendsoftheearth.uk/
-<br>https://citizensclimatelobby.org/
+### Get Involved in Your City and Country: Find A Chapter!
+https://citizensclimatelobby.org/
+<br>https://www.climategen.org/take-action/act-climate-change/
+<br>https://climate.friendsoftheearth.uk/
+
 
 ### How to Start the Conversation:
 https://www.unep.org/interactives/things-you-can-do-climate-emergency/
