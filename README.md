@@ -50,6 +50,13 @@ https://climate.friendsoftheearth.uk/
 https://www.unep.org/interactives/things-you-can-do-climate-emergency/
 <br>https://climate.friendsoftheearth.uk/resources/climate-action-messaging
 
+### 💶 Got a $1.78? Plant A Tree (or 100) Here! 🌱 $1 Plants 1 Tree:
+https://onetreeplanted.org/
+<br>https://teamtrees.org/
+
+### 🔽 Get BS Stream Banners Here! ⏺️
+Warning: Dad jokes ahead. Forgive us LOL - https://github.com/zeph-yr/EarthDayOverlays
+
 ### Technical Resources to Learn More:
 https://www.ipcc.ch/2022/04/04/ipcc-ar6-wgiii-pressrelease/
 <br>https://www.eea.europa.eu/themes/climate-change-adaptation
