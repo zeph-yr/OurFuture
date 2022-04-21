@@ -26,6 +26,31 @@ If you find yourself thinking or being told you can't make a difference, remembe
 
 Please join us (and your local efforts) in the fight for our future, our Earth, and all lives on it and to come. Let's cut emissions and excessive resource consumption like we cut those blocks - with conviction and dedication in the right direction. May our and your aim be true.
 
-~ Zeph 
+~ Zeph
+
+### Shoutout to my friend HitMeWMusic who worked tirelessly with me on this campaign. Read his article here: https://github.com/HitMeWMusic/EarthWeekresourcesV1.1
 
 ![Look at that cat](https://github.com/zeph-yr/OurFuture/blob/main/Images/pollution-hero-1.jpg)
+
+# Taking Action Now
+### Amazing TLDRs and ELI5s:
+- Climate Change Explained Simply - TDC https://www.youtube.com/watch?v=ifrHogDujXw
+- How to Save Our Planet - Sir David Attenborough https://www.youtube.com/watch?v=0Puv0Pss33M
+- The Carbon Scale - Casually Explained https://www.youtube.com/watch?v=6Ljs9_yIiY0
+- What Is Climate Change? https://www.un.org/en/climatechange/what-is-climate-change
+- Learn About the World’s Largest Environmental Movement https://www.earthday.org/
+- Bill Nye Explains Climate Change https://www.youtube.com/watch?v=IFgBFYkBZ6E
+- How Much CO2 Are We Releasing? https://co2counter.org/
+
+### Get Involved in Your Local Area:
+https://climate.friendsoftheearth.uk/
+<br>https://citizensclimatelobby.org/
+
+### How to Start the Conversation:
+https://www.unep.org/interactives/things-you-can-do-climate-emergency/
+<br>https://climate.friendsoftheearth.uk/resources/climate-action-messaging
+
+### Technical Resources to Learn More:
+https://www.ipcc.ch/2022/04/04/ipcc-ar6-wgiii-pressrelease/
+<br>https://www.eea.europa.eu/themes/climate-change-adaptation
+<br>https://www.worldbank.org/content/dam/Worldbank/Feature%20Story/SDN/climate-change-africa-asia-1250x7500.jpg
