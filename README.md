@@ -33,7 +33,7 @@ Please join us (and your local efforts) in the fight for our future, our Earth, 
 ![Look at that cat](https://github.com/zeph-yr/OurFuture/blob/main/Images/pollution-hero-1.jpg)
 
 # Taking Action Now
-### Amazing TLDRs and ELI5s:
+### 🔥 Amazing TLDRs and ELI5s 🌏
 - Climate Change Explained Simply - TDC https://www.youtube.com/watch?v=ifrHogDujXw
 - How to Save Our Planet - Sir David Attenborough https://www.youtube.com/watch?v=0Puv0Pss33M
 - The Carbon Scale - Casually Explained https://www.youtube.com/watch?v=6Ljs9_yIiY0
@@ -50,7 +50,7 @@ https://climate.friendsoftheearth.uk/
 https://www.unep.org/interactives/things-you-can-do-climate-emergency/
 <br>https://climate.friendsoftheearth.uk/resources/climate-action-messaging
 
-### 💶 Got a $1.78? Plant A Tree (or 100) Here! 🌱 $1 Plants 1 Tree:
+### 💶 Got a $1.78? Plant A Tree (or 100) Here! 🌱 $1 Plants 1 Tree 🌳
 https://onetreeplanted.org/
 <br>https://teamtrees.org/
 
