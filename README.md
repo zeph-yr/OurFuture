@@ -1,3 +1,4 @@
+![banner](https://github.com/zeph-yr/OurFuture/blob/main/Images/twitter_banner.png)
 # This Is the Fight of Our Generation
 Dearest Beat Saber Community,
 
@@ -10,7 +11,10 @@ Like the two of us, you probably play Beat Saber quite competitively. Many of yo
 While we laugh, scream, and swing away in VR, reality still exists outside… and it could really use some help right now. As you’ve heard more times than you’ve grinded Chocolate Lily, **we are in a climate emergency**. It is real and it is dire. **In the words of the UN chief, it “is a code red for humanity.”**
 
 Around the world, temperatures and weather are becoming more extreme. Wildfires, hurricanes, and floods are more frequent and devastating. The Arctic is thawing. Look at this diagram and see the direction we are heading.
-<br><img src="https://www.intelligentliving.co/wp-content/uploads/2021/12/degrees-of-global-warming-555x1024.png" width="256"/><br>
+<br>_⬇️ Click to see what 3.2C means for us_
+<br><img src="https://www.intelligentliving.co/wp-content/uploads/2021/12/degrees-of-global-warming-555x1024.png" width="200"/>
+<img src="https://github.com/zeph-yr/OurFuture/blob/main/Images/bsaber_less_text_800.png" width="500">
+<br>
 Although things are not looking so good (an understatement), we have not yet lost. Scientists have been screaming at us: **we still have time, we can still make it... but as the human race, we really need to focus and get our act together because this is a window we cannot afford to miss.**
 
 **So what can you do?**
@@ -23,3 +27,5 @@ If you find yourself thinking or being told you can't make a difference, remembe
 Please join us (and your local efforts) in the fight for our future, our Earth, and all lives on it and to come. Let's cut emissions and excessive resource consumption like we cut those blocks - with conviction and dedication in the right direction. May our and your aim be true.
 
 ~ Zeph 
+
+![Look at that cat](https://github.com/zeph-yr/OurFuture/blob/main/Images/pollution-hero-1.jpg)
